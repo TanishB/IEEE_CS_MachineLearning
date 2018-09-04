@@ -1,2 +1,2 @@
 # IEEE_CS_MachineLearning
-Machine Learning Instructor 2k18
+Workshop1 : Intro To ML and hands-on python
